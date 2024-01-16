@@ -21,9 +21,9 @@ pip install -r requirements.txt
 
 ### Dataset
 
-Download the drone dataset from [roboflow.com](https://public.roboflow.com/object-detection/pothole) and organize it into the desired directory structure.
+Download the pothole dataset from [roboflow.com](https://public.roboflow.com/object-detection/pothole) and organize it into the desired directory structure.
 ```bash
-!curl -L "https://public.roboflow.com/ds/TJlzxDpUrh?key=TELiuSry0d" > roboflow.zip
+!curl -L "https://public.roboflow.com/ds/YOUR_API_KEY" > roboflow.zip
 !unzip -o roboflow.zip
 !rm roboflow.zip
 ```
