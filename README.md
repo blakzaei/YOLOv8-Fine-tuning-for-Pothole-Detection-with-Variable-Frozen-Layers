@@ -4,6 +4,8 @@
 This repository contains code for fine-tuning YOLOv8 on a pothole dataset sourced from [roboflow.com](https://public.roboflow.com/object-detection/pothole).
 The fine-tuning process involves downloading the dataset, training the YOLOv8 model, validating its performance, visualizing training curves, and making predictions on test data.
 
+<video src='Pothole_Video/pothole_1.avi'/>
+
 ![Sample_output](curves/gt_vs_pred/sample_1.png)
 
 ## Getting Started
